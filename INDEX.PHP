@@ -10,7 +10,7 @@
         <label>Jenis Kelamin</label>
         <select name="kelamin">
         <option value="L">L</option>
-        <option value="p">P</option>
+        <option value="P">P</option>
         </select></br>
 
         <p>
